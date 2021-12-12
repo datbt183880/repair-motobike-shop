@@ -1,0 +1,9 @@
+
+h
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(í¢ÅŞ
+a
+java:S1128"FRemove this unused import 'com.sapo.dto.customers.CustomerDTORequest'.(Îôèöûÿÿÿÿ
+W
+java:S4973D"<Strings and Boxed types should be compared using "equals()".(şõ÷üÿÿÿÿ
+W
+java:S4973c"<Strings and Boxed types should be compared using "equals()".(Ü×÷Ïøÿÿÿÿ

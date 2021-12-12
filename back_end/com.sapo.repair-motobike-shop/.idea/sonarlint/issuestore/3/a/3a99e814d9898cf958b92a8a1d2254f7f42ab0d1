@@ -1,0 +1,39 @@
+
+a
+java:S1854G"FRemove this useless assignment to local variable "UserDTOsPagination".(Şï¯ûÿÿÿÿ
+P	java:S899p";Do something with the "boolean" value returned by "delete".(·ÒÅ
+i
+java:S4042q"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ê¾ÄËşÿÿÿÿ
+C
+java:S1125Ä"'Remove the unnecessary boolean literal.(šËÓ¶şÿÿÿÿ
+X
+java:S1126‚"AReplace this if-then-else statement by a single return statement.(Û¯…‘
+>
+java:S1125‚"'Remove the unnecessary boolean literal.(Û¯…‘
+b
+java:S1128"GRemove this unused import 'com.sapo.dto.customers.CustomerDTOResponse'.(‹€ãìıÿÿÿÿ
+]
+java:S1128	"BRemove this unused import 'com.sapo.dto.role.RoleDTOListResponse'.(è¹š¢ÿÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'com.sapo.entities.Customer'.(˜şçâÿÿÿÿÿ
+p
+java:S2293æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(’·ì
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şï¯ûÿÿÿÿ
+Z
+java:S1155È">Use isEmpty() to check whether the collection is empty or not.(˜êÉúÿÿÿÿ
+€
+java:S14884"kImmediately return this expression instead of assigning it to the temporary variable "userDTOResponseById".(Ì‹¸2
+q
+java:S14889"\Immediately return this expression instead of assigning it to the temporary variable "user".(ºŠßw
+s
+java:S1488@"]Immediately return this expression instead of assigning it to the temporary variable "users".(Ï¿›
+~
+java:S1488Ÿ"gImmediately return this expression instead of assigning it to the temporary variable "userDTOResponse".(¿•áÿ
+
+java:S1488à"jImmediately return this expression instead of assigning it to the temporary variable "userDTOsPagination".(æ¦õä
+…
+java:S1488ñ"iImmediately return this expression instead of assigning it to the temporary variable "userPaginationDTO".(Å¢åÏüÿÿÿÿ
+t
+java:S1488Š"]Immediately return this expression instead of assigning it to the temporary variable "users".(ƒåş³
+x
+java:S1488‘"\Immediately return this expression instead of assigning it to the temporary variable "user".(™ßØƒùÿÿÿÿ
